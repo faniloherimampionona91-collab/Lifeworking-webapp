@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Lifeworking WebApp</title>
+</head>
+<body>
+  <h1>Bienvenue sur mon app Firebase 🚀</h1>
+  <p>Ceci est mon premier déploiement avec Firebase Hosting.</p>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
